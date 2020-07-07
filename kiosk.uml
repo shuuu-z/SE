@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.totororamen.kiosk</OriginalElement>
+  <nodes>
+    <node x="5531.227754237287" y="3008.5">com.totororamen.kiosk.ui.panels.OrderFinishPanel</node>
+    <node x="4368.770127118643" y="3008.5">com.totororamen.kiosk.ui.panels.ManagerPasswordPanel</node>
+    <node x="7266.844761944769" y="1561.0">com.totororamen.kiosk.ui.panels.AddonItemAvailabilityPanel</node>
+    <node x="2889.3002115736454" y="1573.0">com.totororamen.kiosk.data.utils.ManagementPassword</node>
+    <node x="4656.770127118643" y="2985.5">com.totororamen.kiosk.ui.panels.ManagerModifyPasswordPanel</node>
+    <node x="5857.227754237287" y="3008.5">com.totororamen.kiosk.ui.panels.WelcomePanel</node>
+    <node x="2687.770127118644" y="3032.5">com.totororamen.kiosk.data.utils.ManagementPasswordTest</node>
+    <node x="326.33286289111766" y="3008.5">com.totororamen.kiosk.ui.panels.OptionStatPanel</node>
+    <node x="3354.770127118644" y="2951.0">com.totororamen.kiosk.ui.panels.MembershipLoginPanel</node>
+    <node x="4364.938669913845" y="5263.5">com.totororamen.kiosk.Main</node>
+    <node x="2931.770127118644" y="2962.0">com.totororamen.kiosk.ui.panels.MembershipModifyPasswordPanel</node>
+    <node x="4029.7701271186434" y="2951.0">com.totororamen.kiosk.ui.panels.MembershipResetPasswordPanel</node>
+    <node x="372.54166666666606" y="1642.0">com.totororamen.kiosk.data.entities.OrderTest</node>
+    <node x="1501.7701271186438" y="2847.0">com.totororamen.kiosk.ui.panels.OrderSummaryPanel</node>
+    <node x="1151.9163135593217" y="0.0">com.totororamen.kiosk.data.entities.ItemOption</node>
+    <node x="1810.7701271186438" y="2962.0">com.totororamen.kiosk.ui.panels.OrderNotePanel</node>
+    <node x="5960.049796537386" y="1641.5">com.totororamen.kiosk.ui.panels.ImagePanel</node>
+    <node x="6571.844761944769" y="1492.0">com.totororamen.kiosk.ui.panels.AddonItemPanel</node>
+    <node x="4506.46092585936" y="1607.0">com.totororamen.kiosk.ui.panels.BasePanel</node>
+    <node x="6873.844761944769" y="1561.0">com.totororamen.kiosk.ui.panels.FixedPriceItemPanel</node>
+    <node x="546.5416666666661" y="1583.5">com.totororamen.kiosk.data.io.OrderIO</node>
+    <node x="4982.770127118643" y="2997.0">com.totororamen.kiosk.ui.panels.AskMembershipPanel</node>
+    <node x="6206.049796537386" y="1642.0">com.totororamen.kiosk.data.io.ItemIOTest</node>
+    <node x="1131.7701271186438" y="2847.0">com.totororamen.kiosk.ui.panels.MembershipDetailsPanel</node>
+    <node x="4074.2720032471784" y="3755.0">com.totororamen.kiosk.ui.MainWindow</node>
+    <node x="2092.770127118644" y="2973.5">com.totororamen.kiosk.ui.panels.DiningOptionPanel</node>
+    <node x="1914.0636699138452" y="1572.0">com.totororamen.kiosk.data.io.MembershipIO</node>
+    <node x="6311.432327654721" y="271.5">com.totororamen.kiosk.data.entities.Item</node>
+    <node x="2387.770127118644" y="2870.5">com.totororamen.kiosk.ui.panels.MembershipRegisterPanel</node>
+    <node x="6092.227754237287" y="2951.0">com.totororamen.kiosk.ui.panels.OrderPanel</node>
+    <node x="7198.216463204053" y="2836.0">com.totororamen.kiosk.ui.panels.ManagerEditMenuPanel</node>
+    <node x="892.5856799040839" y="729.0">com.totororamen.kiosk.data.entities.Order</node>
+    <node x="533.2703628911177" y="3031.5">com.totororamen.kiosk.ui.panels.ItemStatPanel</node>
+    <node x="113.6875" y="879.0">com.totororamen.kiosk.data.io.ItemOptionsIOTest</node>
+    <node x="6505.510738062939" y="2755.0">com.totororamen.kiosk.ui.panels.PersonalizePanel</node>
+    <node x="805.5435427952016" y="5113.0">com.totororamen.kiosk.ui.panels.ManagerStatsPanel</node>
+    <node x="3638.770127118644" y="2893.0">com.totororamen.kiosk.ui.panels.MembershipModifyInfoPanel</node>
+    <node x="5265.227754237287" y="2997.0">com.totororamen.kiosk.ui.panels.ManagerMenuPanel</node>
+    <node x="164.33286289111766" y="3043.5">com.totororamen.kiosk.data.io.OrderIOTest</node>
+    <node x="833.0" y="3043.5">com.totororamen.kiosk.data.io.MembershipIOTest</node>
+    <node x="1894.398923287967" y="798.5">com.totororamen.kiosk.data.entities.Membership</node>
+    <node x="7576.84476194477" y="798.0">com.totororamen.kiosk.ui.panels.FixedPriceItemAvailabilityPanel</node>
+    <node x="1032.3125" y="236.0">com.totororamen.kiosk.data.io.ItemOptionsIO</node>
+    <node x="6094.300748707353" y="809.0">com.totororamen.kiosk.data.io.ItemIO</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipModifyInfoPanel" target="com.totororamen.kiosk.data.entities.Membership">
+      <point x="0.0" y="-202.0" />
+      <point x="3824.270127118644" y="2535.0" />
+      <point x="3792.670127118644" y="2535.0" />
+      <point x="3792.670127118644" y="1212.0" />
+      <point x="2244.3989232879667" y="1212.0" />
+      <point x="160.0" y="132.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.DiningOptionPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="91.66666666666697" y="121.5" />
+      <point x="2321.936793785311" y="3595.0" />
+      <point x="4182.407596467518" y="3595.0" />
+      <point x="-111.86440677966084" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderSummaryPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="96.33333333333303" y="248.0" />
+      <point x="1742.6034604519768" y="3655.0" />
+      <point x="4137.661833755654" y="3655.0" />
+      <point x="-156.61016949152508" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OptionStatPanel" target="com.totororamen.kiosk.data.io.ItemOptionsIO">
+      <point x="-22.875" y="-86.5" />
+      <point x="394.95786289111766" y="2655.0" />
+      <point x="339.1875" y="2655.0" />
+      <point x="339.1875" y="619.0" />
+      <point x="1104.2569444444443" y="619.0" />
+      <point x="-57.55555555555566" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerMenuPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="61.5" y="-98.0" />
+      <point x="5449.727754237287" y="2155.0" />
+      <point x="4675.079346911992" y="2155.0" />
+      <point x="52.118421052631675" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipDetailsPanel" target="com.totororamen.kiosk.data.entities.Membership">
+      <point x="21.875" y="-248.0" />
+      <point x="1328.6451271186438" y="2445.0" />
+      <point x="1318.127592526027" y="2445.0" />
+      <point x="1318.127592526027" y="1402.0" />
+      <point x="2004.398923287967" y="1402.0" />
+      <point x="-80.0" y="132.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.PersonalizePanel" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="-102.35294117647027" y="-340.0" />
+      <point x="6548.1577968864685" y="2045.0" />
+      <point x="6484.344761944769" y="2045.0" />
+      <point x="6484.344761944769" y="1192.0" />
+      <point x="1387.460679904084" y="1192.0" />
+      <point x="227.375" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.WelcomePanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="0.0" y="-86.5" />
+      <point x="5964.727754237287" y="2115.0" />
+      <point x="4699.605662701465" y="2115.0" />
+      <point x="76.64473684210498" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.ItemIOTest" target="com.totororamen.kiosk.data.entities.Item">
+      <point x="-16.125" y="-51.5" />
+      <point x="6254.424796537386" y="1432.0" />
+      <point x="6083.800748707353" y="1432.0" />
+      <point x="6083.800748707353" y="679.0" />
+      <point x="6368.511275023142" y="679.0" />
+      <point x="-63.42105263157919" y="86.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerStatsPanel" target="com.totororamen.kiosk.data.entities.Item">
+      <point x="-12.100000000000364" y="-178.5" />
+      <point x="914.4435427952012" y="5053.0" />
+      <point x="813.8125" y="5053.0" />
+      <point x="813.8125" y="649.0" />
+      <point x="6330.458643444194" y="649.0" />
+      <point x="-101.4736842105267" y="86.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipDetailsPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="153.125" y="-248.0" />
+      <point x="1459.8951271186438" y="2555.0" />
+      <point x="4515.6582942804125" y="2555.0" />
+      <point x="-107.30263157894751" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipLoginPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="88.0" y="144.0" />
+      <point x="3574.770127118644" y="3505.0" />
+      <point x="4249.526240535314" y="3505.0" />
+      <point x="-44.745762711864245" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderSummaryPanel" target="com.totororamen.kiosk.data.io.ItemOptionsIO">
+      <point x="-60.20833333333303" y="-248.0" />
+      <point x="1586.0617937853108" y="2385.0" />
+      <point x="1438.0862789667049" y="2385.0" />
+      <point x="1438.0862789667049" y="619.0" />
+      <point x="1190.5902777777774" y="619.0" />
+      <point x="28.777777777777374" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.AskMembershipPanel">
+      <point x="52.20338983050851" y="-639.0" />
+      <point x="4346.475393077687" y="3515.0" />
+      <point x="5025.103460451977" y="3515.0" />
+      <point x="-84.66666666666652" y="98.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.DiningOptionPanel">
+      <point x="-126.77966101694892" y="-639.0" />
+      <point x="4167.492342230229" y="3615.0" />
+      <point x="2138.603460451977" y="3615.0" />
+      <point x="-91.66666666666697" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ItemStatPanel" target="com.totororamen.kiosk.data.entities.Item">
+      <point x="-64.5" y="-63.5" />
+      <point x="554.7703628911177" y="2645.0" />
+      <point x="362.04166666666606" y="2645.0" />
+      <point x="362.04166666666606" y="639.0" />
+      <point x="6317.774432917879" y="639.0" />
+      <point x="-114.15789473684254" y="86.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerEditMenuPanel" target="com.totororamen.kiosk.ui.panels.FixedPriceItemAvailabilityPanel">
+      <point x="156.0" y="-259.0" />
+      <point x="7588.216463204053" y="2715.0" />
+      <point x="7678.334267474704" y="2715.0" />
+      <point x="7678.334267474704" y="1472.0" />
+      <point x="7626.34476194477" y="1472.0" />
+      <point x="-99.0" y="132.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipModifyInfoPanel" target="com.totororamen.kiosk.data.io.MembershipIO">
+      <point x="-148.39999999999986" y="-202.0" />
+      <point x="3675.8701271186437" y="2265.0" />
+      <point x="2129.8970032471784" y="2265.0" />
+      <point x="86.33333333333326" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerStatsPanel" target="com.totororamen.kiosk.ui.panels.ItemStatPanel">
+      <point x="-60.5" y="-178.5" />
+      <point x="866.0435427952016" y="5073.0" />
+      <point x="619.2703628911177" y="5073.0" />
+      <point x="0.0" y="63.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerEditMenuPanel" target="com.totororamen.kiosk.data.io.ItemOptionsIO">
+      <point x="-124.80000000000018" y="-259.0" />
+      <point x="7307.416463204053" y="1935.0" />
+      <point x="7245.344761944769" y="1935.0" />
+      <point x="7245.344761944769" y="559.0" />
+      <point x="1248.145833333333" y="559.0" />
+      <point x="86.33333333333303" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.data.entities.Membership">
+      <point x="-208.81355932203314" y="-639.0" />
+      <point x="4085.4584439251453" y="3725.0" />
+      <point x="1113.8125" y="3725.0" />
+      <point x="1113.8125" y="1372.0" />
+      <point x="1944.398923287967" y="1372.0" />
+      <point x="-140.0" y="132.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.OrderNotePanel">
+      <point x="-149.15254237288082" y="-639.0" />
+      <point x="4145.119460874297" y="3645.0" />
+      <point x="1854.4367937853103" y="3645.0" />
+      <point x="-87.33333333333348" y="133.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ItemStatPanel" target="com.totororamen.kiosk.data.io.OrderIO">
+      <point x="-21.5" y="-63.5" />
+      <point x="597.7703628911177" y="2715.0" />
+      <point x="646.8749999999991" y="2715.0" />
+      <point x="14.33333333333303" y="110.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipModifyPasswordPanel" target="com.totororamen.kiosk.data.utils.ManagementPassword">
+      <point x="-100.75" y="-133.0" />
+      <point x="3032.520127118644" y="2535.0" />
+      <point x="3006.3002115736454" y="2535.0" />
+      <point x="0.0" y="120.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.AskMembershipPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="84.66666666666652" y="98.0" />
+      <point x="5194.43679378531" y="3535.0" />
+      <point x="4361.390647314975" y="3535.0" />
+      <point x="67.1186440677966" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.OrderIOTest" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="-53.25" y="-51.5" />
+      <point x="182.46067990408392" y="1242.0" />
+      <point x="905.9606799040839" y="1242.0" />
+      <point x="-254.125" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderNotePanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="98.25" y="-133.0" />
+      <point x="2040.0201271186438" y="2595.0" />
+      <point x="4540.184610069886" y="2595.0" />
+      <point x="-82.77631578947376" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderNotePanel" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="-98.25" y="-133.0" />
+      <point x="1843.5201271186438" y="2335.0" />
+      <point x="1340.127592526027" y="2335.0" />
+      <point x="1340.127592526027" y="1312.0" />
+      <point x="1280.460679904084" y="1312.0" />
+      <point x="120.375" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.ItemOptionsIOTest" target="com.totororamen.kiosk.data.io.ItemOptionsIO">
+      <point x="80.625" y="-51.5" />
+      <point x="301.8125" y="609.0" />
+      <point x="1075.479166666667" y="609.0" />
+      <point x="-86.33333333333303" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerEditMenuPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="156.0" y="259.0" />
+      <point x="7588.216463204053" y="3735.0" />
+      <point x="4510.543189687856" y="3735.0" />
+      <point x="216.27118644067787" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.OrderPanel">
+      <point x="156.61016949152554" y="-639.0" />
+      <point x="4450.882172738704" y="3655.0" />
+      <point x="6124.894420903955" y="3655.0" />
+      <point x="-65.33333333333303" y="144.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.PersonalizePanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="-136.4705882352946" y="-340.0" />
+      <point x="6514.040149827644" y="2065.0" />
+      <point x="4718.00039954357" y="2065.0" />
+      <point x="95.0394736842104" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.FixedPriceItemAvailabilityPanel" target="com.totororamen.kiosk.data.io.ItemOptionsIO">
+      <point x="-99.0" y="-132.5" />
+      <point x="7626.34476194477" y="499.0" />
+      <point x="1276.9236111111113" y="499.0" />
+      <point x="115.11111111111131" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.Main" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="38.0" y="-28.0" />
+      <point x="4478.938669913845" y="5093.0" />
+      <point x="4477.605336580512" y="5093.0" />
+      <point x="183.33333333333348" y="639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipModifyInfoPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="148.4000000000001" y="-202.0" />
+      <point x="3972.670127118644" y="2695.0" />
+      <point x="4601.50039954357" y="2695.0" />
+      <point x="-21.460526315789593" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderSummaryPanel" target="com.totororamen.kiosk.data.entities.ItemOption">
+      <point x="-36.125" y="-248.0" />
+      <point x="1610.1451271186438" y="2375.0" />
+      <point x="1449.0862789667049" y="2375.0" />
+      <point x="1449.0862789667049" y="216.0" />
+      <point x="1291.1038135593217" y="216.0" />
+      <point x="8.1875" y="63.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipDetailsPanel" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="-65.625" y="-248.0" />
+      <point x="1241.1451271186438" y="2435.0" />
+      <point x="1285.127592526027" y="2435.0" />
+      <point x="1285.127592526027" y="1342.0" />
+      <point x="1200.210679904084" y="1342.0" />
+      <point x="40.125" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.MembershipLoginPanel">
+      <point x="-52.20338983050851" y="-639.0" />
+      <point x="4242.06861341667" y="3515.0" />
+      <point x="3486.770127118644" y="3515.0" />
+      <point x="0.0" y="144.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.PersonalizePanel" target="com.totororamen.kiosk.data.entities.ItemOption">
+      <point x="136.4705882352937" y="-340.0" />
+      <point x="6786.9813262982325" y="2735.0" />
+      <point x="7234.344761944769" y="2735.0" />
+      <point x="7234.344761944769" y="186.0" />
+      <point x="1340.2288135593217" y="186.0" />
+      <point x="57.3125" y="63.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.AddonItemPanel" target="com.totororamen.kiosk.ui.panels.PersonalizePanel">
+      <point x="93.66666666666697" y="201.5" />
+      <point x="6806.011428611437" y="2685.0" />
+      <point x="6701.687208651174" y="2685.0" />
+      <point x="51.176470588235134" y="-340.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.FixedPriceItemPanel" target="com.totororamen.kiosk.data.entities.ItemOption">
+      <point x="0.0" y="-132.5" />
+      <point x="7043.344761944769" y="196.0" />
+      <point x="1323.8538135593217" y="196.0" />
+      <point x="40.9375" y="63.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipResetPasswordPanel" target="com.totororamen.kiosk.data.io.MembershipIO">
+      <point x="-119.625" y="-144.0" />
+      <point x="4069.6451271186434" y="2255.0" />
+      <point x="2158.6747810249562" y="2255.0" />
+      <point x="115.11111111111109" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipResetPasswordPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="106.33333333333348" y="144.0" />
+      <point x="4295.603460451977" y="3735.0" />
+      <point x="4294.272003247179" y="3735.0" />
+      <point x="0.0" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderSummaryPanel" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="-84.29166666666697" y="-248.0" />
+      <point x="1561.9784604519768" y="2395.0" />
+      <point x="1329.127592526027" y="2395.0" />
+      <point x="1329.127592526027" y="1322.0" />
+      <point x="1253.710679904084" y="1322.0" />
+      <point x="93.625" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.OrderFinishPanel">
+      <point x="111.86440677966084" y="-639.0" />
+      <point x="4406.136410026839" y="3595.0" />
+      <point x="5582.227754237287" y="3595.0" />
+      <point x="-102.0" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.PersonalizePanel" target="com.totororamen.kiosk.data.io.ItemOptionsIO">
+      <point x="-51.176470588235134" y="-340.0" />
+      <point x="6599.334267474704" y="2015.0" />
+      <point x="6528.344761944769" y="2015.0" />
+      <point x="6528.344761944769" y="609.0" />
+      <point x="1219.3680555555557" y="609.0" />
+      <point x="57.55555555555566" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipDetailsPanel" target="com.totororamen.kiosk.data.io.OrderIO">
+      <point x="-153.125" y="-248.0" />
+      <point x="1153.6451271186438" y="2435.0" />
+      <point x="675.5416666666661" y="2435.0" />
+      <point x="43.0" y="110.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.MembershipRegisterPanel">
+      <point x="-104.40677966101657" y="-639.0" />
+      <point x="4189.865223586162" y="3585.0" />
+      <point x="2434.4367937853103" y="3585.0" />
+      <point x="-93.33333333333337" y="224.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerPasswordPanel" target="com.totororamen.kiosk.data.utils.ManagementPassword">
+      <point x="-89.33333333333348" y="-86.5" />
+      <point x="4413.43679378531" y="2245.0" />
+      <point x="3073.1573544307885" y="2245.0" />
+      <point x="66.85714285714289" y="120.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerEditMenuPanel" target="com.totororamen.kiosk.data.io.ItemIO">
+      <point x="-156.0" y="-259.0" />
+      <point x="7276.216463204053" y="1945.0" />
+      <point x="7223.344761944769" y="1945.0" />
+      <point x="7223.344761944769" y="1162.0" />
+      <point x="6270.134082040686" y="1162.0" />
+      <point x="70.33333333333303" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="-56.0" y="-144.0" />
+      <point x="6134.227754237287" y="2095.0" />
+      <point x="4711.868820596202" y="2095.0" />
+      <point x="88.90789473684208" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerMenuPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="82.0" y="98.0" />
+      <point x="5470.227754237287" y="3585.0" />
+      <point x="4398.678782908195" y="3585.0" />
+      <point x="104.40677966101703" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.ItemOptionsIOTest" target="com.totororamen.kiosk.data.entities.ItemOption">
+      <point x="-80.625" y="-51.5" />
+      <point x="140.5625" y="709.0" />
+      <point x="161.9375" y="709.0" />
+      <point x="161.9375" y="166.0" />
+      <point x="1192.8538135593217" y="166.0" />
+      <point x="-90.0625" y="63.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerStatsPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="36.30000000000018" y="-178.5" />
+      <point x="962.8435427952018" y="5063.0" />
+      <point x="4110.938669913845" y="5063.0" />
+      <point x="-183.33333333333348" y="639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.PersonalizePanel">
+      <point x="178.98305084745743" y="-639.0" />
+      <point x="4473.255054094636" y="3685.0" />
+      <point x="6553.844071396272" y="3685.0" />
+      <point x="-96.66666666666697" y="340.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.ManagerStatsPanel">
+      <point x="-36.666666666666515" y="639.0" />
+      <point x="4257.605336580512" y="5083.0" />
+      <point x="1011.2435427952014" y="5083.0" />
+      <point x="84.69999999999982" y="-178.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerModifyPasswordPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="0.0" y="-109.5" />
+      <point x="4809.770127118643" y="2225.0" />
+      <point x="4632.1582942804125" y="2225.0" />
+      <point x="9.197368421052488" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.MembershipModifyInfoPanel">
+      <point x="-37.28813559322043" y="-639.0" />
+      <point x="4256.983867653958" y="3495.0" />
+      <point x="3700.6034604519773" y="3495.0" />
+      <point x="-123.66666666666674" y="202.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.OrderSummaryPanel">
+      <point x="-171.52542372881317" y="-639.0" />
+      <point x="4122.746579518365" y="3675.0" />
+      <point x="1549.9367937853108" y="3675.0" />
+      <point x="-96.33333333333303" y="248.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OptionStatPanel" target="com.totororamen.kiosk.data.io.OrderIO">
+      <point x="68.625" y="-86.5" />
+      <point x="486.45786289111766" y="2705.0" />
+      <point x="618.208333333333" y="2705.0" />
+      <point x="-14.33333333333303" y="110.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipModifyPasswordPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="134.33333333333348" y="133.0" />
+      <point x="3267.6034604519773" y="3535.0" />
+      <point x="4227.153359179381" y="3535.0" />
+      <point x="-67.1186440677966" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerPasswordPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="89.33333333333348" y="-86.5" />
+      <point x="4592.103460451977" y="2735.0" />
+      <point x="4626.026715333044" y="2735.0" />
+      <point x="3.0657894736841627" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderNotePanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="87.33333333333348" y="133.0" />
+      <point x="2029.1034604519773" y="3625.0" />
+      <point x="4160.034715111586" y="3625.0" />
+      <point x="-134.23728813559273" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.MembershipIOTest" target="com.totororamen.kiosk.data.utils.ManagementPassword">
+      <point x="88.0" y="-51.5" />
+      <point x="1031.0" y="2515.0" />
+      <point x="2906.014497287931" y="2515.0" />
+      <point x="-100.28571428571422" y="120.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderSummaryPanel" target="com.totororamen.kiosk.data.entities.Item">
+      <point x="-12.04166666666697" y="-248.0" />
+      <point x="1634.2284604519768" y="2365.0" />
+      <point x="1475.6915421245994" y="2365.0" />
+      <point x="1475.6915421245994" y="659.0" />
+      <point x="6343.14285397051" y="659.0" />
+      <point x="-88.78947368421086" y="86.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.MembershipIOTest" target="com.totororamen.kiosk.data.io.MembershipIO">
+      <point x="44.0" y="-51.5" />
+      <point x="987.0" y="2475.0" />
+      <point x="1957.230336580512" y="2475.0" />
+      <point x="-86.33333333333337" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderPanel" target="com.totororamen.kiosk.data.entities.Item">
+      <point x="84.0" y="-144.0" />
+      <point x="6274.227754237287" y="2735.0" />
+      <point x="6517.344761944769" y="2735.0" />
+      <point x="6517.344761944769" y="699.0" />
+      <point x="6431.932327654721" y="699.0" />
+      <point x="0.0" y="86.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderFinishPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="76.5" y="-86.5" />
+      <point x="5760.727754237287" y="2135.0" />
+      <point x="4687.342504806728" y="2135.0" />
+      <point x="64.38157894736833" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.AskMembershipPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="63.5" y="-98.0" />
+      <point x="5173.270127118643" y="2195.0" />
+      <point x="4650.5530311225175" y="2195.0" />
+      <point x="27.59210526315792" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.WelcomePanel" target="com.totororamen.kiosk.ui.panels.ImagePanel">
+      <point x="71.66666666666697" y="-86.5" />
+      <point x="6036.394420903955" y="2735.0" />
+      <point x="5997.716463204053" y="2735.0" />
+      <point x="-75.33333333333303" y="52.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerEditMenuPanel" target="com.totororamen.kiosk.data.entities.ItemOption">
+      <point x="124.80000000000018" y="-259.0" />
+      <point x="7557.016463204053" y="2735.0" />
+      <point x="7566.344761944769" y="2735.0" />
+      <point x="7566.344761944769" y="166.0" />
+      <point x="1372.9788135593217" y="166.0" />
+      <point x="90.0625" y="63.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.PersonalizePanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="96.66666666666697" y="340.0" />
+      <point x="6747.177404729606" y="3705.0" />
+      <point x="4488.170308331924" y="3705.0" />
+      <point x="193.89830508474552" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.AddonItemAvailabilityPanel" target="com.totororamen.kiosk.data.entities.Item">
+      <point x="0.0" y="-132.5" />
+      <point x="7394.844761944769" y="539.0" />
+      <point x="6508.037590812616" y="539.0" />
+      <point x="76.10526315789502" y="86.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OptionStatPanel" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="22.875" y="-86.5" />
+      <point x="440.70786289111766" y="2675.0" />
+      <point x="525.0416666666661" y="2675.0" />
+      <point x="525.0416666666661" y="1282.0" />
+      <point x="1012.9606799040839" y="1282.0" />
+      <point x="-147.125" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.entities.Order" target="com.totororamen.kiosk.data.io.ItemOptionsIO">
+      <point x="133.75" y="-201.5" />
+      <point x="1293.835679904084" y="629.0" />
+      <point x="1161.8125" y="629.0" />
+      <point x="0.0" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipDetailsPanel" target="com.totororamen.kiosk.data.io.MembershipIO">
+      <point x="65.625" y="-248.0" />
+      <point x="1372.3951271186438" y="2485.0" />
+      <point x="1986.0081143582897" y="2485.0" />
+      <point x="-57.55555555555554" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipModifyPasswordPanel" target="com.totororamen.kiosk.data.io.MembershipIO">
+      <point x="-167.91666666666674" y="-133.0" />
+      <point x="2965.3534604519773" y="2295.0" />
+      <point x="2072.341447691623" y="2295.0" />
+      <point x="28.77777777777783" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerPasswordPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="89.33333333333348" y="86.5" />
+      <point x="4592.103460451977" y="3475.0" />
+      <point x="4316.644884603111" y="3475.0" />
+      <point x="22.37288135593235" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerEditMenuPanel" target="com.totororamen.kiosk.data.entities.Item">
+      <point x="-93.60000000000036" y="-259.0" />
+      <point x="7338.616463204053" y="1925.0" />
+      <point x="7256.344761944769" y="1925.0" />
+      <point x="7256.344761944769" y="549.0" />
+      <point x="6495.3533802863" y="549.0" />
+      <point x="63.42105263157919" y="86.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.PersonalizePanel" target="com.totororamen.kiosk.data.io.ItemIO">
+      <point x="-68.23529411764684" y="-340.0" />
+      <point x="6582.275443945292" y="2025.0" />
+      <point x="6506.344761944769" y="2025.0" />
+      <point x="6506.344761944769" y="1172.0" />
+      <point x="6246.6896375962415" y="1172.0" />
+      <point x="46.88888888888869" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerModifyPasswordPanel" target="com.totororamen.kiosk.data.utils.ManagementPassword">
+      <point x="-102.0" y="-109.5" />
+      <point x="4707.770127118643" y="2235.0" />
+      <point x="3106.5859258593596" y="2235.0" />
+      <point x="100.28571428571422" y="120.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.MembershipModifyPasswordPanel">
+      <point x="-82.03389830508468" y="-639.0" />
+      <point x="4212.238104942094" y="3555.0" />
+      <point x="2998.9367937853103" y="3555.0" />
+      <point x="-134.33333333333337" y="133.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.FixedPriceItemPanel" target="com.totororamen.kiosk.ui.panels.PersonalizePanel">
+      <point x="113.0" y="132.5" />
+      <point x="7156.344761944769" y="2725.0" />
+      <point x="6769.922502768821" y="2725.0" />
+      <point x="119.41176470588198" y="-340.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipModifyPasswordPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="167.91666666666674" y="-133.0" />
+      <point x="3301.1867937853103" y="2655.0" />
+      <point x="4576.974083754097" y="2655.0" />
+      <point x="-45.98684210526335" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.MembershipIOTest" target="com.totororamen.kiosk.data.entities.Membership">
+      <point x="-44.0" y="-51.5" />
+      <point x="899.0" y="2445.0" />
+      <point x="1091.8125" y="2445.0" />
+      <point x="1091.8125" y="1362.0" />
+      <point x="1924.398923287967" y="1362.0" />
+      <point x="-160.0" y="132.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipModifyInfoPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="123.66666666666674" y="202.0" />
+      <point x="3947.9367937853103" y="3475.0" />
+      <point x="4271.899121891246" y="3475.0" />
+      <point x="-22.37288135593235" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.WelcomePanel">
+      <point x="141.69491525423746" y="-639.0" />
+      <point x="4435.966918501415" y="3635.0" />
+      <point x="5964.727754237287" y="3635.0" />
+      <point x="0.0" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderPanel" target="com.totororamen.kiosk.ui.panels.ImagePanel">
+      <point x="0.0" y="-144.0" />
+      <point x="6190.227754237287" y="2075.0" />
+      <point x="6148.383129870719" y="2075.0" />
+      <point x="75.33333333333303" y="52.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipModifyPasswordPanel" target="com.totororamen.kiosk.data.entities.Membership">
+      <point x="33.58333333333326" y="-133.0" />
+      <point x="3166.8534604519773" y="2535.0" />
+      <point x="3168.9367937853103" y="2535.0" />
+      <point x="3168.9367937853103" y="1242.0" />
+      <point x="2184.3989232879667" y="1242.0" />
+      <point x="100.0" y="132.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.ManagerPasswordPanel">
+      <point x="7.4576271186438134" y="-639.0" />
+      <point x="4301.729630365822" y="3455.0" />
+      <point x="4413.43679378531" y="3455.0" />
+      <point x="-89.33333333333348" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderSummaryPanel" target="com.totororamen.kiosk.data.io.MembershipIO">
+      <point x="60.20833333333303" y="-248.0" />
+      <point x="1706.4784604519768" y="2495.0" />
+      <point x="2014.7858921360673" y="2495.0" />
+      <point x="-28.77777777777783" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipDetailsPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="116.66666666666652" y="248.0" />
+      <point x="1423.4367937853103" y="3685.0" />
+      <point x="4115.288952399722" y="3685.0" />
+      <point x="-178.98305084745698" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.DiningOptionPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="103.125" y="-121.5" />
+      <point x="2333.395127118644" y="2615.0" />
+      <point x="4552.447767964623" y="2615.0" />
+      <point x="-70.51315789473665" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderSummaryPanel" target="com.totororamen.kiosk.data.entities.Membership">
+      <point x="12.04166666666697" y="-248.0" />
+      <point x="1658.3117937853108" y="2355.0" />
+      <point x="1554.1915421245994" y="2355.0" />
+      <point x="1554.1915421245994" y="1412.0" />
+      <point x="2024.398923287967" y="1412.0" />
+      <point x="-60.0" y="132.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.entities.Order" target="com.totororamen.kiosk.data.entities.ItemOption">
+      <point x="-133.75" y="-201.5" />
+      <point x="1026.335679904084" y="589.0" />
+      <point x="1021.8125" y="589.0" />
+      <point x="1021.8125" y="186.0" />
+      <point x="1225.6038135593217" y="186.0" />
+      <point x="-57.3125" y="63.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="-216.2711864406774" y="-639.0" />
+      <point x="4078.000816806501" y="3735.0" />
+      <point x="1080.8125" y="3735.0" />
+      <point x="1080.8125" y="1332.0" />
+      <point x="1146.710679904084" y="1332.0" />
+      <point x="-13.375" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.ItemIO" target="com.totororamen.kiosk.data.entities.Item">
+      <point x="-70.33333333333303" y="-121.5" />
+      <point x="6129.46741537402" y="689.0" />
+      <point x="6381.195485549458" y="689.0" />
+      <point x="-50.73684210526335" y="86.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.OrderIOTest" target="com.totororamen.kiosk.data.io.OrderIO">
+      <point x="53.25" y="-51.5" />
+      <point x="288.58286289111766" y="2695.0" />
+      <point x="589.5416666666661" y="2695.0" />
+      <point x="-43.0" y="110.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.ItemIOTest" target="com.totororamen.kiosk.data.io.ItemIO">
+      <point x="16.125" y="-51.5" />
+      <point x="6286.674796537386" y="1422.0" />
+      <point x="6176.356304262908" y="1422.0" />
+      <point x="-23.444444444444343" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderSummaryPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="132.45833333333303" y="-248.0" />
+      <point x="1778.7284604519768" y="2575.0" />
+      <point x="4527.921452175149" y="2575.0" />
+      <point x="-95.0394736842104" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerStatsPanel" target="com.totororamen.kiosk.data.entities.ItemOption">
+      <point x="-108.89999999999964" y="-178.5" />
+      <point x="817.6435427952019" y="5093.0" />
+      <point x="0.0" y="5093.0" />
+      <point x="0.0" y="146.0" />
+      <point x="1160.1038135593217" y="146.0" />
+      <point x="-122.8125" y="63.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerStatsPanel" target="com.totororamen.kiosk.data.io.ItemIO">
+      <point x="12.100000000000364" y="-178.5" />
+      <point x="938.6435427952019" y="5053.0" />
+      <point x="1063.5" y="5053.0" />
+      <point x="1063.5" y="2455.0" />
+      <point x="1580.936323343095" y="2455.0" />
+      <point x="1580.936323343095" y="1462.0" />
+      <point x="6129.46741537402" y="1462.0" />
+      <point x="-70.33333333333303" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerStatsPanel" target="com.totororamen.kiosk.data.io.ItemOptionsIO">
+      <point x="-36.30000000000018" y="-178.5" />
+      <point x="890.2435427952014" y="5063.0" />
+      <point x="791.8125" y="5063.0" />
+      <point x="791.8125" y="629.0" />
+      <point x="1133.0347222222226" y="629.0" />
+      <point x="-28.777777777777374" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerEditMenuPanel" target="com.totororamen.kiosk.ui.panels.AddonItemAvailabilityPanel">
+      <point x="0.0" y="-259.0" />
+      <point x="7432.216463204053" y="2695.0" />
+      <point x="7480.178095278103" y="2695.0" />
+      <point x="85.33333333333303" y="132.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.PersonalizePanel" target="com.totororamen.kiosk.ui.panels.AddonItemPanel">
+      <point x="17.05882352941171" y="-340.0" />
+      <point x="6667.5695615923505" y="1975.0" />
+      <point x="6618.678095278103" y="1975.0" />
+      <point x="-93.66666666666697" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipLoginPanel" target="com.totororamen.kiosk.data.io.MembershipIO">
+      <point x="-105.59999999999991" y="-144.0" />
+      <point x="3381.170127118644" y="2285.0" />
+      <point x="2101.1192254694006" y="2285.0" />
+      <point x="57.55555555555566" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ItemStatPanel" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="21.5" y="-63.5" />
+      <point x="640.7703628911177" y="2725.0" />
+      <point x="748.8125" y="2725.0" />
+      <point x="748.8125" y="1322.0" />
+      <point x="1119.960679904084" y="1322.0" />
+      <point x="-40.125" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipResetPasswordPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="39.875" y="-144.0" />
+      <point x="4229.145127118643" y="2705.0" />
+      <point x="4607.631978490938" y="2705.0" />
+      <point x="-15.328947368421268" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderSummaryPanel" target="com.totororamen.kiosk.data.io.OrderIO">
+      <point x="-132.45833333333303" y="-248.0" />
+      <point x="1513.8117937853108" y="2415.0" />
+      <point x="704.208333333333" y="2415.0" />
+      <point x="71.66666666666697" y="110.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipRegisterPanel" target="com.totororamen.kiosk.data.entities.Membership">
+      <point x="-23.333333333333258" y="-224.5" />
+      <point x="2504.4367937853103" y="2505.0" />
+      <point x="2544.2701271186443" y="2505.0" />
+      <point x="2544.2701271186443" y="1262.0" />
+      <point x="2144.3989232879667" y="1262.0" />
+      <point x="60.0" y="132.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerModifyPasswordPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="102.0" y="109.5" />
+      <point x="4911.770127118643" y="3505.0" />
+      <point x="4339.017765959043" y="3505.0" />
+      <point x="44.745762711864245" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.utils.ManagementPasswordTest" target="com.totororamen.kiosk.data.utils.ManagementPassword">
+      <point x="0.0" y="-62.5" />
+      <point x="2799.770127118644" y="2535.0" />
+      <point x="2972.871640145074" y="2535.0" />
+      <point x="-33.42857142857156" y="120.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.FixedPriceItemAvailabilityPanel" target="com.totororamen.kiosk.data.entities.ItemOption">
+      <point x="0.0" y="-132.5" />
+      <point x="7725.34476194477" y="156.0" />
+      <point x="1389.3538135593217" y="156.0" />
+      <point x="106.4375" y="63.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="65.33333333333303" y="144.0" />
+      <point x="6255.561087570621" y="3675.0" />
+      <point x="4465.7974269759925" y="3675.0" />
+      <point x="171.52542372881362" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.entities.OrderTest" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="35.5" y="-51.5" />
+      <point x="479.04166666666606" y="1272.0" />
+      <point x="986.2106799040839" y="1272.0" />
+      <point x="-173.875" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.MembershipDetailsPanel">
+      <point x="-186.44067796610125" y="-639.0" />
+      <point x="4107.831325281077" y="3695.0" />
+      <point x="1306.7701271186438" y="3695.0" />
+      <point x="0.0" y="248.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderSummaryPanel" target="com.totororamen.kiosk.data.io.ItemIO">
+      <point x="84.29166666666697" y="-248.0" />
+      <point x="1730.5617937853108" y="2505.0" />
+      <point x="2183.563669913845" y="2505.0" />
+      <point x="2183.563669913845" y="1472.0" />
+      <point x="6152.911859818464" y="1472.0" />
+      <point x="-46.88888888888869" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.AddonItemAvailabilityPanel" target="com.totororamen.kiosk.data.io.ItemIO">
+      <point x="-85.33333333333303" y="-132.5" />
+      <point x="7309.511428611437" y="1152.0" />
+      <point x="6293.578526485131" y="1152.0" />
+      <point x="93.77777777777828" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.MembershipResetPasswordPanel">
+      <point x="-14.915254237288082" y="-639.0" />
+      <point x="4279.35674900989" y="3465.0" />
+      <point x="4082.9367937853103" y="3465.0" />
+      <point x="-106.33333333333348" y="144.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.ManagerModifyPasswordPanel">
+      <point x="29.830508474576163" y="-639.0" />
+      <point x="4324.102511721754" y="3485.0" />
+      <point x="4707.770127118643" y="3485.0" />
+      <point x="-102.0" y="109.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.OrderIO" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="57.33333333333303" y="-110.0" />
+      <point x="689.8749999999991" y="1312.0" />
+      <point x="1093.210679904084" y="1312.0" />
+      <point x="-66.875" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.PersonalizePanel" target="com.totororamen.kiosk.data.entities.Item">
+      <point x="0.0" y="-340.0" />
+      <point x="6650.510738062939" y="1985.0" />
+      <point x="6561.344761944769" y="1985.0" />
+      <point x="6561.344761944769" y="579.0" />
+      <point x="6469.984959233669" y="579.0" />
+      <point x="38.05263157894751" y="86.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipResetPasswordPanel" target="com.totororamen.kiosk.data.entities.Membership">
+      <point x="-39.875" y="-144.0" />
+      <point x="4149.395127118643" y="1202.0" />
+      <point x="2264.3989232879667" y="1202.0" />
+      <point x="180.0" y="132.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ItemStatPanel" target="com.totororamen.kiosk.data.io.ItemIO">
+      <point x="64.5" y="-63.5" />
+      <point x="683.7703628911177" y="2735.0" />
+      <point x="802.8125" y="2735.0" />
+      <point x="802.8125" y="1452.0" />
+      <point x="6106.022970929575" y="1452.0" />
+      <point x="-93.77777777777737" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderFinishPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="102.0" y="86.5" />
+      <point x="5786.227754237287" y="3615.0" />
+      <point x="4421.051664264127" y="3615.0" />
+      <point x="126.77966101694892" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.ManagerEditMenuPanel">
+      <point x="208.81355932203405" y="-639.0" />
+      <point x="4503.085562569213" y="3725.0" />
+      <point x="7432.216463204053" y="3725.0" />
+      <point x="0.0" y="259.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipRegisterPanel" target="com.totororamen.kiosk.data.utils.ManagementPassword">
+      <point x="23.33333333333337" y="-224.5" />
+      <point x="2551.1034604519773" y="2525.0" />
+      <point x="2939.4430687165022" y="2525.0" />
+      <point x="-66.85714285714289" y="120.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.MembershipIO" target="com.totororamen.kiosk.data.entities.Membership">
+      <point x="0.0" y="-121.5" />
+      <point x="2043.5636699138452" y="1442.0" />
+      <point x="2084.3989232879667" y="1442.0" />
+      <point x="0.0" y="132.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipLoginPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="105.59999999999991" y="-144.0" />
+      <point x="3592.3701271186437" y="2675.0" />
+      <point x="4589.237241648833" y="2675.0" />
+      <point x="-33.723684210526244" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipRegisterPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="116.66666666666663" y="-224.5" />
+      <point x="2644.4367937853103" y="2635.0" />
+      <point x="4564.71092585936" y="2635.0" />
+      <point x="-58.25" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipLoginPanel" target="com.totororamen.kiosk.data.utils.ManagementPassword">
+      <point x="-52.80000000000018" y="-144.0" />
+      <point x="3433.9701271186436" y="2275.0" />
+      <point x="3039.728783002217" y="2275.0" />
+      <point x="33.42857142857133" y="120.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.DiningOptionPanel" target="com.totororamen.kiosk.data.entities.Order">
+      <point x="-103.125" y="-121.5" />
+      <point x="2127.145127118644" y="2315.0" />
+      <point x="1903.5636699138452" y="2315.0" />
+      <point x="1903.5636699138452" y="1292.0" />
+      <point x="1333.960679904084" y="1292.0" />
+      <point x="173.875" y="201.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipRegisterPanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="93.33333333333326" y="224.5" />
+      <point x="2621.1034604519773" y="3565.0" />
+      <point x="4204.7804778234495" y="3565.0" />
+      <point x="-89.49152542372849" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.PersonalizePanel" target="com.totororamen.kiosk.ui.panels.FixedPriceItemPanel">
+      <point x="85.29411764705856" y="-340.0" />
+      <point x="6735.804855709997" y="2705.0" />
+      <point x="6930.344761944769" y="2705.0" />
+      <point x="-113.0" y="132.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.MainWindow" target="com.totororamen.kiosk.ui.panels.ManagerMenuPanel">
+      <point x="89.49152542372894" y="-639.0" />
+      <point x="4383.763528670907" y="3565.0" />
+      <point x="5306.227754237287" y="3565.0" />
+      <point x="-82.0" y="98.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.WelcomePanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="71.66666666666697" y="86.5" />
+      <point x="6036.394420903955" y="3645.0" />
+      <point x="4443.42454562006" y="3645.0" />
+      <point x="149.15254237288127" y="-639.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OptionStatPanel" target="com.totororamen.kiosk.data.entities.ItemOption">
+      <point x="-68.625" y="-86.5" />
+      <point x="349.20786289111766" y="2665.0" />
+      <point x="103.1875" y="2665.0" />
+      <point x="103.1875" y="156.0" />
+      <point x="1176.4788135593217" y="156.0" />
+      <point x="-106.4375" y="63.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.data.io.ItemOptionsIO" target="com.totororamen.kiosk.data.entities.ItemOption">
+      <point x="-86.33333333333303" y="-121.5" />
+      <point x="1075.479166666667" y="196.0" />
+      <point x="1241.9788135593217" y="196.0" />
+      <point x="-40.9375" y="63.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipRegisterPanel" target="com.totororamen.kiosk.data.io.MembershipIO">
+      <point x="-116.66666666666663" y="-224.5" />
+      <point x="2411.1034604519773" y="2305.0" />
+      <point x="2043.5636699138452" y="2305.0" />
+      <point x="0.0" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.AddonItemPanel" target="com.totororamen.kiosk.data.entities.Item">
+      <point x="0.0" y="-201.5" />
+      <point x="6712.344761944769" y="569.0" />
+      <point x="6482.6691697599845" y="569.0" />
+      <point x="50.73684210526335" y="86.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.MembershipLoginPanel" target="com.totororamen.kiosk.data.entities.Membership">
+      <point x="0.0" y="-144.0" />
+      <point x="3486.770127118644" y="1232.0" />
+      <point x="2204.3989232879667" y="1232.0" />
+      <point x="120.0" y="132.0" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerStatsPanel" target="com.totororamen.kiosk.ui.panels.OptionStatPanel">
+      <point x="-84.69999999999982" y="-178.5" />
+      <point x="841.8435427952018" y="5083.0" />
+      <point x="417.83286289111766" y="5083.0" />
+      <point x="0.0" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.OrderPanel" target="com.totororamen.kiosk.data.io.ItemIO">
+      <point x="28.0" y="-144.0" />
+      <point x="6218.227754237287" y="2715.0" />
+      <point x="6369.709518759609" y="2715.0" />
+      <point x="6369.709518759609" y="1402.0" />
+      <point x="6223.245193151797" y="1402.0" />
+      <point x="23.444444444444343" y="121.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.ManagerEditMenuPanel" target="com.totororamen.kiosk.ui.panels.BasePanel">
+      <point x="-218.39999999999964" y="-259.0" />
+      <point x="7213.816463204053" y="1965.0" />
+      <point x="4730.263557438307" y="1965.0" />
+      <point x="107.30263157894706" y="86.5" />
+    </edge>
+    <edge source="com.totororamen.kiosk.ui.panels.BasePanel" target="com.totororamen.kiosk.ui.MainWindow">
+      <point x="33.723684210526244" y="86.5" />
+      <point x="4656.684610069886" y="2185.0" />
+      <point x="5247.270127118643" y="2185.0" />
+      <point x="5247.270127118643" y="3545.0" />
+      <point x="4368.84827443362" y="3545.0" />
+      <point x="74.57627118644086" y="-639.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.4" x="3807.0" y="2088.75" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

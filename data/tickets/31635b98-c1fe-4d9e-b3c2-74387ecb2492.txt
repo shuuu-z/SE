@@ -1,0 +1,23 @@
+             Totoro Ramen               
+========================================
+Order ID: 31635b98-c1fe-4d9e-b3c2-74387ecb2492
+========================================
+Dining Option: Take away
+Ramen                  x1
+  Soup: Shio
+  Spring Onion: No please
+  Test Option: When
+  Spiciness: 0
+  Boiled Egg: Yes
+  Chashw: Yes
+  Nori: Yes
+  Noodles: Soft
+========================================
+Add-ons:
+  Extra Nori  x0
+  Bamboo Shoots  x1
+  Extra Boiled Egg  x2
+  Extra Chashu  x0
+========================================
+Note: 
+   010

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.totororamen.kiosk"},{"l":"com.totororamen.kiosk.data.entities"},{"l":"com.totororamen.kiosk.data.io"},{"l":"com.totororamen.kiosk.data.utils"},{"l":"com.totororamen.kiosk.ui"},{"l":"com.totororamen.kiosk.ui.panels"}]
